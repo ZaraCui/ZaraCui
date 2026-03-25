@@ -2,7 +2,7 @@
 
 🎓 **Bachelor of Advanced Computing (Computer Science & Software Development)**  
 📍 University of Sydney  
-💡 Interests: Artificial Intelligence · Software Engineering · Human Motion Generation
+💡 Interests: Artificial Intelligence · Software Engineering · Embodied Intelligence · World Models
 
 ---
 
