@@ -2,7 +2,7 @@
 
 🎓 **Bachelor of Advanced Computing (Computer Science & Software Development)**  
 📍 University of Sydney  
-💡 Interests: Artificial Intelligence · Software Engineering · Algorithms · Systems
+💡 Interests: Artificial Intelligence · Software Engineering · Human Motion Generation
 
 ---
 
@@ -12,19 +12,18 @@ I am a Computer Science student with a strong interest in **AI systems, software
 I enjoy turning complex ideas into **clean, reliable, and well-structured software**, and building systems that balance **engineering rigor with real-world impact**.
 
 My key areas of interest include:
-- AI-assisted systems and Retrieval-Augmented Generation (RAG)
+- Human Motion Generation
+- Predictive World Models
+- Agentic RAG
 - Data Structures & Algorithms
 - Backend and full-stack development
-- Low-level systems and computer architecture
+
 
 ---
 
 ## 🎯 Current Focus
 
-- Strengthening algorithmic thinking and system design skills  
-- Building production-ready AI applications  
-- Exploring generative AI and agent-based systems  
-- Preparing for software engineering and AI-related internships  
+Currently, I am focused on the transition from static AI to Embodied Intelligence, exploring how World Models and VLA models can bridge the gap between perception and reasoning-driven action.
 
 ---
 
